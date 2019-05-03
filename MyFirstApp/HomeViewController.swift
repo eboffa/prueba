@@ -21,7 +21,7 @@ class HomeViewController: UIViewController {
     private func renderCornerRadius() {
         
         for miSubView in stackView.arrangedSubviews {
-            miSubView.layer.cornerRadius = 8
+            miSubView.layer.cornerRadius = 17
         }
     }
     
